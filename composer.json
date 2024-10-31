@@ -1,13 +1,13 @@
 {
-    "name": "kelvinmo/simplejwt",
+    "name": "reeman/simplejwt",
     "description": "A simple JSON Web Token library for PHP.",
     "keywords": [ "jwt", "jwe", "jose" ],
-    "homepage": "https://github.com/kelvinmo/simplejwt",
+    "homepage": "https://github.com/DrReeman/simplejwt.git",
     "require": {
         "php": "^5.4 || ^7.1 || ^8.0",
         "ext-openssl": "*",
         "ext-hash": "*",
-        "symfony/console": "~2.8 || ^4.0 || ^5.0"
+        "symfony/console": "~2.8 || ^3.4 || ^4.0 || ^5.0"
     },
     "require-dev": {
         "ext-bz2": "*",
